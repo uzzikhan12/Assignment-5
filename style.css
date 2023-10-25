@@ -1,0 +1,23 @@
+*{
+    background-color: black;
+    color: white;
+}
+
+img{
+    border-radius: 200px;
+}
+
+.text{
+    border: 2px solid;
+}
+
+.text2{
+    text-transform: uppercase;
+    text-shadow: 5px white;
+}
+
+.image{
+    border: 2px solid;
+    display: flex;
+    align-items: center;
+}
